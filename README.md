@@ -3,7 +3,7 @@
 
 I am a Software Engineer currently located in **Serbia**. But always open to **relocation**. I'm always open to new experiences, I'm looking for places where I can learn something new and share my current knowledge with others.
 
-Currently passionate about<span style="color: #87CEEB;">GO</span> <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="go" width="120" height="50" style="vertical-align: middle;"/>
+Currently passionate about **GO** <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="go" width="40" height="40" style="vertical-align: middle;"/>
 
 Reach out to me at  **milankovac75@gmail.com** or **milankovacdev@gmail.com**
 
