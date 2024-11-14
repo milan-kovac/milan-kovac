@@ -38,4 +38,4 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-kovac&show_icons=true&locale=en&layout=compact" alt="milan-kovac" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-kovac&" alt="milan-kovac" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-kovac" alt="milan-kovac" /></p>
