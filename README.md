@@ -3,9 +3,12 @@
 
 I am a Software Engineer currently located in **Serbia**. But always open to **relocation**. I'm always open to new experiences, I'm looking for places where I can learn something new and share my current knowledge with others.
 
+Currently passionate about GO <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="go" width="50" height="120" style="vertical-align: middle;"/> Node.js
+
 Reach out to me at  **milankovac75@gmail.com** or **milankovacdev@gmail.com**
 
 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kovac-milan/)
+
 
 Languages and Tools
 <p>
