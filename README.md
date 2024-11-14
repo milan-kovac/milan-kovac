@@ -3,9 +3,12 @@
 
 I am a Software Engineer currently located in **Serbia**. But always open to **relocation**. I'm always open to new experiences, I'm looking for places where I can learn something new and share my current knowledge with others.
 
+Reach out to me at  **milankovac75@gmail.com** or **milankovacdev@gmail.com**
 
+Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kovac-milan/)
 
-
+Languages and Tools
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/> 
@@ -25,10 +28,7 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="40"/>
-
-Reach out to me at  **milankovac75@gmail.com** or **milankovacdev@gmail.com**
-
-Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kovac-milan/)
+</p>
 
 
 
