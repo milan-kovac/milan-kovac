@@ -1,5 +1,5 @@
 
-# **I'm Milan 🥷**
+# **I'm Milan 🐱‍👤**
 
 I am a Software Engineer currently located in **Serbia**. But always open to **relocation**. I'm always open to new experiences, I'm looking for places where I can learn something new and share my current knowledge with others.
 
