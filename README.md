@@ -21,11 +21,14 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="80" height="40"/>
 </p>
 
 #### Reach out to me at  **milankovac75@gmail.com** or **milankovacdev@gmail.com**
@@ -33,4 +36,6 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 #### Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kovac-milan/)
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/milan-kovac?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-kovac&show_icons=true&locale=en&layout=compact" alt="milan-kovac" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-kovac&" alt="milan-kovac" /></p>
