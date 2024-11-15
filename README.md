@@ -5,7 +5,7 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 
 #### Currently passionate  about **GO**
 
-## 🛠 Languages and Tools tool ##
+## 🛠 Languages and Tools ##
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
