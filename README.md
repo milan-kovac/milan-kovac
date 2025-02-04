@@ -35,5 +35,3 @@ I am a Software Engineer currently located in **Serbia**. But always open to **r
 
 #### Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kovac-milan/)
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/milan-kovac?cardType=octocat&theme=vue&preferLogin=true)](https://git.io/awesome-stats-card)
