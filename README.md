@@ -8,15 +8,14 @@
   <!-- Title and description -->
   <h1>Full-Stack Engineer</h1>
   <p>
-    I am a Software Engineer based in Serbia, open to relocation.
-    I enjoy learning new technologies and sharing my knowledge with others.
+    I am a Full-Stack Engineer with experience in building scalable web applications. I enjoy solving challenging problems, mentoring others, and continuously learning new technologies
   </p>
 
   <br><br>
 
   <!-- Icons -->
-  <h3>Languages and Tools:</h3>
-  <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -43,20 +42,6 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan-kovac" alt="milan-kovac"/>
   </p>
-
-  <br><br>
-
-<p style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" height="20"/>
-  <a href="mailto:milankovac75@gmail.com"><strong>milankovac75@gmail.com</strong></a>
-</p>
-
-<p style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://www.linkedin.com/in/kovac-milan" target="_blank" rel="noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
-    <span>milan-kovac</span>
-  </a>
-</p>
 
 </body>
 </html>
