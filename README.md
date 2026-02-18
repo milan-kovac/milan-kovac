@@ -6,7 +6,7 @@
 <body>
 
   <!-- Title and description -->
-  <h1>Milan – Full-Stack Engineer</h1>
+  <h1>Full-Stack Engineer</h1>
   <p>
     I am a Software Engineer based in Serbia, open to relocation.
     I enjoy learning new technologies and sharing my knowledge with others.
